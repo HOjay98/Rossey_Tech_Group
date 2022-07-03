@@ -1,4 +1,4 @@
-# Welocole to Rossey_Tech_Group
+# Welcome to Rossey_Tech_Group
 Collaborators: Joshua and Rose
 1. web development
 2. HTML
